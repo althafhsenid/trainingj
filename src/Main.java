@@ -59,9 +59,3 @@ public class Main {
         System.out.println("Perimeter = " + shape.calculatePerimeter());
     }
 }
-
-
-
-
-
-
